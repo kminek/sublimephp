@@ -1,0 +1,13 @@
+/Data/*/
+!/Data/Packages/
+/Data/Packages/*/
+!/Data/Packages/User
+!/Data/Installed Packages/
+/Data/Installed Packages/*
+!/Data/Installed Packages/Package Control.sublime-package
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/

@@ -1,0 +1,33 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Laravel Blade Highlighter",
+		"Libsass Build",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"Sass",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
+		"SublimeOnSaveBuild",
+		"Theme - Soda"
+	]
+}

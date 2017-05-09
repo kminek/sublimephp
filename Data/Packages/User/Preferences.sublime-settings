@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
 	"default_encoding": "UTF-8",
-	"default_line_ending": "LF",
+	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,

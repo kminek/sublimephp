@@ -28,6 +28,7 @@ Packages:
         "BracketHighlighter",
         "Color Highlighter",
         "DocBlockr",
+        "Dockerfile Syntax Highlighting",
         "Emmet",
         "Git",
         "GitGutter",

@@ -1,4 +1,7 @@
 {
     "jsdocs_spacer_between_sections": "after_description",
-    "jsdocs_align_tags": "no"
+    "jsdocs_align_tags": "no",
+    "jsdocs_function_description": false,
+    "jsdocs_return_description": false,
+    "jsdocs_param_description": false
 }

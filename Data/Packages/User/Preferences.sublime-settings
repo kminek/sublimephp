@@ -11,7 +11,8 @@
 	],
 	"rulers":
 	[
-		80, 120
+		80,
+		120
 	],
 	"show_encoding": true,
 	"spell_check": true,

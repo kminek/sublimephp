@@ -15,6 +15,7 @@ class ComposerStaticInit42b93295c2bdb0916bfa3febb5e9776f
         ),
         'P' => 
         array (
+            'Psr\\Container\\' => 14,
             'PDepend\\' => 8,
         ),
     );
@@ -31,6 +32,10 @@ class ComposerStaticInit42b93295c2bdb0916bfa3febb5e9776f
         'Symfony\\Component\\Config\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/config',
+        ),
+        'Psr\\Container\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/container/src',
         ),
         'PDepend\\' => 
         array (

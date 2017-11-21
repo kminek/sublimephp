@@ -30,6 +30,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"SublimeOnSaveBuild",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Vue Syntax Highlight"
 	]
 }

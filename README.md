@@ -17,7 +17,7 @@ What's included
 ---------------
 
 - Sublime Text 3, 64-bit
-- php-7.1.4-Win32-VC14-x64
+- PHP 7.2 (x64)
 
 Packages:
 
@@ -34,6 +34,7 @@ Packages:
         "GitGutter",
         "Laravel Blade Highlighter",
         "Libsass Build",
+        "nginx",
         "Package Control",
         "PHP Companion",
         "PHP-Twig",
@@ -47,7 +48,8 @@ Packages:
         "SublimeLinter-phpcs",
         "SublimeLinter-phpmd",
         "SublimeOnSaveBuild",
-        "Theme - Soda"
+        "Theme - Soda",
+        "Vue Syntax Highlight"
     ]
 ```
 

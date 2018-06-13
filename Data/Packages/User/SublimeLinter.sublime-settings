@@ -18,7 +18,7 @@
         "phpcs": {
             "@disable": false,
             "args": [],
-            "excludes": [],
+            "excludes": ["*/*blade.php"],
             "standard": "PSR2"
         },
         "phpmd": {

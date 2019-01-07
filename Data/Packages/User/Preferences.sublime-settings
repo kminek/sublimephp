@@ -20,6 +20,7 @@
 		120
 	],
 	"show_encoding": true,
+	"show_line_endings": true,
 	"spell_check": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,

@@ -17,7 +17,7 @@ What's included
 ---------------
 
 - Sublime Text 3, 64-bit
-- PHP 7.2 (x64)
+- PHP 7.3 (x64)
 
 Packages:
 

@@ -53,6 +53,13 @@ Packages:
     ]
 ```
 
+Context menu
+------------
+
+Follow steps in this article in order to add Sublime Text to context menu:
+
+https://www.howtogeek.com/107965/how-to-add-any-application-shortcut-to-windows-explorers-context-menu/
+
 Troubleshooting
 ---------------
 

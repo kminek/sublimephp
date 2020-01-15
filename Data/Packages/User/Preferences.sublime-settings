@@ -7,6 +7,9 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 10,
+	"font_face": "JetBrains Mono Medium",
+	"font_options": [
+	],
 	"highlight_line": true,
 	"ignored_packages":
 	[
